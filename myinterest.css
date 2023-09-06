@@ -1,5 +1,6 @@
 .intro{
     display: flex;
+    felx-wrap:wrap;
   
 }
 h1{
