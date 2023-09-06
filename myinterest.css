@@ -1,0 +1,45 @@
+.intro{
+    display: flex;
+  
+}
+h1{
+    color: #f4f8f3;
+    text-align:center;
+}
+body{
+    background-color: #6d746c;
+}
+p{
+    color: rgb(233, 233, 233);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style:unset;
+    word-spacing: 3px;
+    text-align: justify;
+}
+#profile{
+    border:0.3em solid whitesmoke;
+ border-radius: 1em;
+ height: 20em;
+ width: 15em;
+}
+hr{
+    border-color: black;
+}
+h2{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.myhobbies{
+ font-size: larger;
+ color: rgb(0, 0, 0);
+ letter-spacing: 1.5px;
+}
+#cook:hover{
+    color: honeydew;
+    box-shadow: 0 0 25px #1eff00, 0 0  50px lime,  0 0 100px lime; 
+    background-color: #1eff00;
+}
