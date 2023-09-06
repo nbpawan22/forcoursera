@@ -1,5 +1,8 @@
-
-h1{
+.intro{
+    display: flex;
+    flex-wrap: wrap;
+}
+    h1{
     color: #f4f8f3;
     text-align:center;
 }
@@ -17,8 +20,8 @@ p{
 #profile{
     border:0.3em solid whitesmoke;
  border-radius: 1em;
- height: auto;
- width: auto;
+ height: 25em;
+ width: 15em;
 }
 hr{
     border-color: black;
